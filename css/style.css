@@ -1,0 +1,22 @@
+body{
+    font-weight: 300;
+}
+
+section{
+    padding-top:50px;
+    padding-bottom:100px;
+}
+
+.about{
+    background:#F4EFEC;
+}
+.usage{
+    background:#F4D9D0;
+}
+.example{
+    background:#F4E0E9;
+}
+.contact{
+    background:#333;
+    color:#f3f3f3;
+}
